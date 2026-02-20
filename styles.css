@@ -1,6 +1,5 @@
 body {
   text-align: center;
-<<<<<<< HEAD
   background-color: #252525;
   background: radial-gradient(circle,rgba(41, 41, 41, 1) 60%, rgb(12, 12, 12) 100%);
 }
@@ -11,22 +10,13 @@ body {
   margin: 2%;
   color: #ffffff;
   text-shadow: 5px 5px 0px rgb(207, 0, 69);
-=======
-  background-color: #000000;
->>>>>>> ca191742563eb6ecb943b470ebad8450a309cdbe
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-<<<<<<< HEAD
   font-size: 2rem;
   margin:  4%;
   color: #ffffff;
-=======
-  font-size: 3rem;
-  margin:  5%;
-  color: #ebebeb;
->>>>>>> ca191742563eb6ecb943b470ebad8450a309cdbe
 }
 
 .container {
@@ -39,17 +29,10 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-<<<<<<< HEAD
   height: 250px;
   width: 250px;
   border: 10px solid rgb(255, 255, 255);
   border-radius: 100%;
-=======
-  height: 200px;
-  width: 200px;
-  border: 10px solid rgb(255, 255, 255);
-  border-radius: 20%;
->>>>>>> ca191742563eb6ecb943b470ebad8450a309cdbe
 }
 
 .game-over {
@@ -58,7 +41,6 @@ body {
 }
 
 .red {
-<<<<<<< HEAD
   background-color: #d10050;
 }
 
@@ -72,21 +54,6 @@ body {
 
 .yellow {
   background-color: #dab200;
-=======
-  background-color: #ff0f3f;
-}
-
-.green {
-  background-color: #1ac903;
-}
-
-.blue {
-  background-color: #332FD0;
-}
-
-.yellow {
-  background-color: #ffd000;
->>>>>>> ca191742563eb6ecb943b470ebad8450a309cdbe
 }
 
 .pressed {
